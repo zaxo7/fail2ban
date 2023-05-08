@@ -4,7 +4,7 @@
                        |_| \__,_|_|_/___|_.__/\__,_|_||_|
                        v1.0.3.dev1            20??/??/??
 
-## Fail2Ban: ban hosts that cause multiple authentication errors
+## Fail2Ban: ban hosts that cause multiple authentication errors 
 
 Fail2Ban scans log files like `/var/log/auth.log` and bans IP addresses conducting
 too many failed login attempts. It does this by updating system firewall rules

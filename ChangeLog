@@ -2039,7 +2039,7 @@ ver. 0.8.8 (2012/12/06) - stable
 * Various others: travis-ci integration, script to run tests
   against all available Python versions, etc
 
-ver. 0.8.7.1 (2012/07/31) - stable
+ver. 0.8.7.1 (2012/07/31) - stable 
 ----------
 
 ### Fixes
